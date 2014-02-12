@@ -44,7 +44,6 @@ public class ExecutorTest {
       ex.execute(t.new Runner(5, 2000));
 
       ex.shutdown();
-           
    }
 
 }
